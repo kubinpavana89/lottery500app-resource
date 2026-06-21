@@ -1,2 +1,14 @@
 # lottery500app-resource
-HTML page archive and documentation
+
+静态页面记录中心
+
+本仓库用于整理 HTML 页面输出结果，并保留对应的仓库说明。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
